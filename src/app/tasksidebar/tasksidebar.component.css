@@ -1,0 +1,16 @@
+h1{
+  color: green;
+}
+.taskside{
+  float: left;
+}
+.taskid{
+  color: blue;
+}
+.btntask{
+
+  padding: 11px 20px;
+    box-shadow: 11px 4px 8px 0px grey;
+    border: none;
+
+}
